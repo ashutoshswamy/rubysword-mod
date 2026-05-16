@@ -1,4 +1,0 @@
-/time set
-/time set night
-/reload
-/recipe give @p mymod:ruby_sword
