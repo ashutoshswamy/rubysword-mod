@@ -1,6 +1,6 @@
-package com.ashu.mymod;
+package com.ashu.rubysword;
 
-import com.ashu.mymod.item.ModItems;
+import com.ashu.rubysword.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
  * Main entrypoint for the mod.
  */
 public class MyMod implements ModInitializer {
-    public static final String MOD_ID = "mymod";
+    public static final String MOD_ID = "rubysword";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
     @Override

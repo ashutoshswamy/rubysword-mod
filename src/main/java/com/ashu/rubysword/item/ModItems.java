@@ -1,6 +1,6 @@
-package com.ashu.mymod.item;
+package com.ashu.rubysword.item;
 
-import com.ashu.mymod.MyMod;
+import com.ashu.rubysword.MyMod;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "mymod",
+  "id": "rubysword",
   "version": "${version}",
-  "name": "My Mod",
+  "name": "Ruby Sword Mod",
   "description": "Adds the Ruby Sword.",
   "authors": [
     "ashu"
   ],
   "contact": {},
   "license": "All-Rights-Reserved",
-  "icon": "assets/mymod/icon.png",
+  "icon": "assets/rubysword/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.ashu.mymod.MyMod"
+      "com.ashu.rubysword.MyMod"
     ]
   },
   "depends": {

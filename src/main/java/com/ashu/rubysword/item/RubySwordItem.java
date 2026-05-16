@@ -1,4 +1,4 @@
-package com.ashu.mymod.item;
+package com.ashu.rubysword.item;
 
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.item.ItemStack;
