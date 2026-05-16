@@ -1,10 +1,12 @@
-# My Mod (Ruby Sword)
+# Ruby Sword Mod
 
 A Fabric mod for **Minecraft 1.21.1** that adds a custom **Ruby Sword**.
 
+![Ruby Sword Banner](assets/banner.png)
+
 ## Features
 
-- Adds `mymod:ruby_sword`
+- Adds `rubysword:ruby_sword`
 - Ruby Sword uses Netherite durability/material stats
 - Applies fire to hit targets for 5 seconds
 - Includes a shaped crafting recipe:
@@ -19,6 +21,8 @@ R
 B
 ```
 
+![Ruby Sword Crafting Recipe](assets/recipe.png)
+
 ## Tech Stack
 
 - Minecraft: `1.21.1`
@@ -31,7 +35,7 @@ B
 ## Project Structure
 
 ```text
-src/main/java/com/ashu/mymod/
+src/main/java/com/ashu/rubysword/
   MyMod.java
   item/
     ModItems.java
@@ -39,13 +43,13 @@ src/main/java/com/ashu/mymod/
 
 src/main/resources/
   fabric.mod.json
-  assets/mymod/
+  assets/rubysword/
     icon.png
     lang/en_us.json
     models/item/ruby_sword.json
     textures/item/ruby_sword.png
-  data/mymod/
-    recipes/ruby_sword.json
+  data/rubysword/
+    recipe/ruby_sword.json
 ```
 
 ## Getting Started
