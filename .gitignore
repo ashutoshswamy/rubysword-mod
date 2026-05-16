@@ -3,6 +3,9 @@ build/
 .gradle/
 out/
 *.class
+run/
+logs/
+crash-reports/
 
 ### IntelliJ IDEA ###
 .idea/
